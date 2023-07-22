@@ -1,0 +1,15 @@
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\bin\Debug\net6.0-windows\opgave-P1.exe
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\bin\Debug\net6.0-windows\opgave-P1.deps.json
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\bin\Debug\net6.0-windows\opgave-P1.runtimeconfig.json
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\bin\Debug\net6.0-windows\opgave-P1.dll
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\bin\Debug\net6.0-windows\opgave-P1.pdb
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.csproj.AssemblyReference.cache
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.AssemblyInfoInputs.cache
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.AssemblyInfo.cs
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.csproj.CoreCompileInputs.cache
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.dll
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\refint\opgave-P1.dll
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.pdb
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\opgave-P1.genruntimeconfig.cache
+C:\Users\lardy\Documents\universiteit\Informatiekunde jaar 3\Imperatief programmeren\opgave-P1 final\opgave-P1\opgave-P1\obj\Debug\net6.0-windows\ref\opgave-P1.dll
